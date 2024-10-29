@@ -5,6 +5,8 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 i'm kerwuin, I Love my Hobby Encode!
+
+
 <!--
 I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web designing, Android development, and digital marketing**
@@ -25,6 +27,8 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 ![My github status](https://github-readme-stats.vercel.app/api?username=Bhargavi-hash&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavi-hash&layout=compact)
 -->
+
+
 **My Skills Include**
 
 <h4> Languages </h4>
@@ -41,20 +45,14 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 </span>
 
 <h4> Databases </h4>
-<span>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<span>  
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 </span>
 
 <h4> Other Tools and Technologies </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</span>
-
-
-
-
-    
+</span>    
 
 <hr>
 <p align="center">
