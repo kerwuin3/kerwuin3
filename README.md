@@ -18,10 +18,10 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 -->
 
 
+<!--  check then
 <h2>👀 My github Stats</h2>
 
 
-<!--  check then
 ![My github status](https://github-readme-stats.vercel.app/api?username=Bhargavi-hash&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavi-hash&layout=compact)
 -->
