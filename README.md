@@ -25,7 +25,7 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 ![My github status](https://github-readme-stats.vercel.app/api?username=Bhargavi-hash&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavi-hash&layout=compact)
 -->
-## My Skills Include
+My Skills Include
 
 <h4> Languages </h4>
 <span> 
