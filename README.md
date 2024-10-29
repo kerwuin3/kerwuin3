@@ -39,7 +39,7 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 
 <h4> Frameworks </h4>
 <span>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
 </span>
 
 <h4> Databases </h4>
