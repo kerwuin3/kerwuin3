@@ -33,35 +33,38 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 
 <h4> Languages </h4>
 <span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
+  <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
+  <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
+  <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'>  
 </span>
 
 <h4> Frameworks </h4>
 <span>
-  <img src='https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white'> 
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src='https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white'>
+  <img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'>
+  <img src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white'>
+  <img src='https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white'>
+  <img src='https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray'>
+  <img src='https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white'>
 </span>
 
 <h4> Databases </h4>
 <span>  
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src='https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white'>
 </span>
 
 <h4> Other Tools and Technologies </h4>
 <span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src='https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white'>
 </span>    
 
 <hr>
-<p align="center">
+<p align='center'>
    <i>No tree, it is said, can grow to heaven unless its roots are in hell.</i>
    <br>
 <br>	
-<a target="_blank" href="https://www.linkedin.com/in/kerwuin3/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="https://www.instagram.com/kerwuinjc/?hl=en"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></img></a></a>
+<a target='_blank' href='https://www.linkedin.com/in/kerwuin3/'><img src='https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white'></img></a>
+<a target='_blank' href='https://www.instagram.com/kerwuinjc/?hl=en'><img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white'></img></a></a>
 <br>
 </p>
 
