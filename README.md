@@ -42,7 +42,7 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 <h4> Frameworks </h4>
 <span>
   <img src='https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white'>
-  <svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <img src='https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray'>
   <img src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white'>
   <img src='https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white'>
   <img src='https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray'>
